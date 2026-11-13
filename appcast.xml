@@ -4,18 +4,27 @@
         <title>momo</title>
         <item>
             <title>momo 1.4</title>
-            <pubDate>Fri, 13 Nov 2026 14:33:16 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <pubDate>Fri, 13 Nov 2026 15:43:10 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 <h3>momo updates itself</h3>
 <ul>
-<li>momo now checks for new versions about once a day and offers to install them. No more downloading by hand.</li>
-<li>To check right away, choose momo ▸ Check for Updates…</li>
+<li>momo now checks for new versions about once a day and offers to install them. To check right away, choose momo ▸ Check for Updates…</li>
+</ul>
+<h3>A calmer window</h3>
+<ul>
+<li>Three ways to see your notes: sidebar, list and note; list and note; or just the note. Clicking in the sidebar no longer makes things jump.</li>
+<li>Notes only show in the notes list, each with its file name at the bottom right.</li>
+</ul>
+<h3>Rename and move notes</h3>
+<ul>
+<li>Right-click a note in the list and choose Rename…, or double-click its name at the top of the note.</li>
+<li>Drag a note onto a folder in the sidebar to move it there.</li>
 </ul>
             ]]></description>
-            <enclosure url="https://github.com/halebop17/momo-releases/releases/download/v1.4/momo-1.4.dmg" type="application/octet-stream" sparkle:edSignature="KTDFgFbneUnFFeFkWKHBteZs2XpsuKnsR6CJfsf9H+a0RKYwDilz2evT5tYo4+7rqSJIFjF8k1ccXSFMwOpSDw==" length="11251272"/>
+            <enclosure url="https://github.com/halebop17/momo-releases/releases/download/v1.4/momo-1.4.dmg" type="application/octet-stream" sparkle:edSignature="KaS/FzuAK5BfStbw2/4EvtSrbTqlu3KUwQWYeVCVhm4Nr54nE4bS7aU90ZJvrCL0lOELHxqi9YiXXsQmXt34AA==" length="11253442"/>
         </item>
     </channel>
 </rss>
