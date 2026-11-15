@@ -3,28 +3,36 @@
     <channel>
         <title>momo</title>
         <item>
-            <title>momo 1.4</title>
-            <pubDate>Fri, 13 Nov 2026 15:43:10 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <title>momo 1.5</title>
+            <pubDate>Sun, 15 Nov 2026 10:02:34 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-<h3>momo updates itself</h3>
+<h3>Get anywhere from the note list</h3>
 <ul>
-<li>momo now checks for new versions about once a day and offers to install them. To check right away, choose momo ▸ Check for Updates…</li>
+<li>Click the note list's title to jump anywhere: Active, the filters, Quick Access and your folders.</li>
+<li>⌥⌘1–9 jump straight to Active and the filters (also View ▸ Go To).</li>
+<li>A new Locked filter lists every locked note.</li>
 </ul>
-<h3>A calmer window</h3>
+<h3>Attach files</h3>
 <ul>
-<li>Three ways to see your notes: sidebar, list and note; list and note; or just the note. Clicking in the sidebar no longer makes things jump.</li>
-<li>Notes only show in the notes list, each with its file name at the bottom right.</li>
+<li>Attach any file to a note: the paperclip in the style bar, Format ▸ Attach File… (⇧⌘A), or drag it in. Text files too.</li>
 </ul>
-<h3>Rename and move notes</h3>
+<h3>Tidier</h3>
 <ul>
-<li>Right-click a note in the list and choose Rename…, or double-click its name at the top of the note.</li>
-<li>Drag a note onto a folder in the sidebar to move it there.</li>
+<li>A cleaner box for choosing and typing your lock password.</li>
+<li>The note list's top row lines up with the window's buttons, and a note's first line sits level with the list.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>New Folder lets you name it straight away.</li>
+<li>The sidebar keeps the folder you chose highlighted.</li>
+<li>The note list follows a note you move to another folder.</li>
+<li>Attached text files no longer count as notes.</li>
 </ul>
             ]]></description>
-            <enclosure url="https://github.com/halebop17/momo-releases/releases/download/v1.4/momo-1.4.dmg" type="application/octet-stream" sparkle:edSignature="KaS/FzuAK5BfStbw2/4EvtSrbTqlu3KUwQWYeVCVhm4Nr54nE4bS7aU90ZJvrCL0lOELHxqi9YiXXsQmXt34AA==" length="11253442"/>
+            <enclosure url="https://github.com/halebop17/momo-releases/releases/download/v1.5/momo-1.5.dmg" type="application/octet-stream" sparkle:edSignature="x15ro6owiSqMGgJqnYzBVg+HtmC10xF5N9duNFr3u1nLMO6qEkAaoEhhzRjuSA/iSDNQWGRzJSss5D7+t2utDg==" length="11325616"/>
         </item>
     </channel>
 </rss>
