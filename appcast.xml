@@ -3,36 +3,24 @@
     <channel>
         <title>momo</title>
         <item>
-            <title>momo 1.5</title>
-            <pubDate>Sun, 15 Nov 2026 10:02:34 +0000</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <title>momo 1.6</title>
+            <pubDate>Thu, 19 Nov 2026 06:44:29 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-<h3>Get anywhere from the note list</h3>
+<h3>Locked folders</h3>
 <ul>
-<li>Click the note list's title to jump anywhere: Active, the filters, Quick Access and your folders.</li>
-<li>⌥⌘1–9 jump straight to Active and the filters (also View ▸ Go To).</li>
-<li>A new Locked filter lists every locked note.</li>
-</ul>
-<h3>Attach files</h3>
-<ul>
-<li>Attach any file to a note: the paperclip in the style bar, Format ▸ Attach File… (⇧⌘A), or drag it in. Text files too.</li>
-</ul>
-<h3>Tidier</h3>
-<ul>
-<li>A cleaner box for choosing and typing your lock password.</li>
-<li>The note list's top row lines up with the window's buttons, and a note's first line sits level with the list.</li>
+<li>Right-click a folder and choose Lock Folder… to lock every note in it, with your locked-notes password.</li>
+<li>A locked folder opens with one tap of Touch ID or your password, and locks again when you leave it, choose Lock Now, or your Mac sleeps.</li>
+<li>Notes you add or move into a locked folder are locked too. Remove Lock… unlocks them all.</li>
 </ul>
 <h3>Fixes</h3>
 <ul>
-<li>New Folder lets you name it straight away.</li>
-<li>The sidebar keeps the folder you chose highlighted.</li>
-<li>The note list follows a note you move to another folder.</li>
-<li>Attached text files no longer count as notes.</li>
+<li>A new note no longer turns into an empty "Untitled" and a conflict copy when iCloud is slow to answer.</li>
 </ul>
             ]]></description>
-            <enclosure url="https://github.com/halebop17/momo-releases/releases/download/v1.5/momo-1.5.dmg" type="application/octet-stream" sparkle:edSignature="x15ro6owiSqMGgJqnYzBVg+HtmC10xF5N9duNFr3u1nLMO6qEkAaoEhhzRjuSA/iSDNQWGRzJSss5D7+t2utDg==" length="11325616"/>
+            <enclosure url="https://github.com/halebop17/momo-releases/releases/download/v1.6/momo-1.6.dmg" type="application/octet-stream" sparkle:edSignature="rQSdh42/WasEh0lww623KjYmD6p+aQciWtfT6Bj/sTbx0HKKh0xXHssCr+S4BaNowXi4+oJHofQAETnVEFaABA==" length="11510296"/>
         </item>
     </channel>
 </rss>
